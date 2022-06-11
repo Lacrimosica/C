@@ -1,0 +1,6 @@
+5 10
+0 2 resistor
+0 3 diode
+3 4 transistor
+2 1 inductor
+1 4 amplifiers

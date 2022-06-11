@@ -1,0 +1,8 @@
+178.1.192.32 goodguy [11/01/2121:15:21:41] POST /intranet/login 200
+172.1.192.32 nastyguy [10/01/2121:15:21:41] POST /intranet/login 200
+172.1.192.32 goodguy [10/01/2121:15:21:41] POGETST /intranet/login 200
+172.1.192.32 badguy [10/01/2121:15:21:41] POST /intranet/login 200
+172.1.192.32 okguy [10/01/2121:15:21:41] POST /intranet/login 401
+172.1.192.32 nastyguy [10/01/2121:15:21:41] POST /intranet/login 401
+34.1.192.32 badguy [10/01/2121:15:21:41] POST /intranet/login 401
+123.154.48.1 worstguy [10/01/2121:15:21:41] GET /services/list 200
