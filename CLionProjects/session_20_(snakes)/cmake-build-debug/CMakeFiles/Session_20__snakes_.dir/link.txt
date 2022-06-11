@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Session_20__snakes_.dir/main.c.o  -o Session_20__snakes_ 

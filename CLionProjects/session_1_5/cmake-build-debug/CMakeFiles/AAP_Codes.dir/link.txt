@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\AAP_Codes.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\AAP_Codes.dir/objects.a @CMakeFiles\AAP_Codes.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\AAP_Codes.dir/objects.a -Wl,--no-whole-archive  -o AAP_Codes.exe -Wl,--out-implib,libAAP_Codes.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AAP_Codes.dir\linklibs.rsp

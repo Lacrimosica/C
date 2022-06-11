@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Session_15.dir/main.c.o  -o Session_15 

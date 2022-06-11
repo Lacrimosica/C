@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/session_26.dir/main.c.o  -o session_26 

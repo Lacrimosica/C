@@ -1,0 +1,7 @@
+this is the first line of this file
+this is the 2nd line
+thisisalltogethertoseehowitworks
+	this has whitespace in the beginning
+this is me trying to figure out my life 
+why did i say that? idk honestly.
+

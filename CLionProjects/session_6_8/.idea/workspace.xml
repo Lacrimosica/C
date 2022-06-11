@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="661715a3-3845-4274-ad64-ad2c0a7ac580" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1jBTEtu3OQfUWAs8C9hAmzCxyZC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="661715a3-3845-4274-ad64-ad2c0a7ac580" name="Default Changelist" comment="" />
+      <created>1603276376477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603276376477</updated>
+      <workItem from="1603276378279" duration="11389000" />
+      <workItem from="1603466215377" duration="548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603466661344">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="94" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1603466661344" />
+    <state width="1234" height="285" key="GridCell.Tab.0.bottom" timestamp="1603313344256">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="1234" height="285" key="GridCell.Tab.0.bottom/0.0.2560.1050@0.0.2560.1050" timestamp="1603313344256" />
+    <state width="1234" height="285" key="GridCell.Tab.0.center" timestamp="1603313344255">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="1234" height="285" key="GridCell.Tab.0.center/0.0.2560.1050@0.0.2560.1050" timestamp="1603313344255" />
+    <state width="1234" height="285" key="GridCell.Tab.0.left" timestamp="1603313344255">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="1234" height="285" key="GridCell.Tab.0.left/0.0.2560.1050@0.0.2560.1050" timestamp="1603313344255" />
+    <state width="1234" height="285" key="GridCell.Tab.0.right" timestamp="1603313344255">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="1234" height="285" key="GridCell.Tab.0.right/0.0.2560.1050@0.0.2560.1050" timestamp="1603313344255" />
+    <state x="393" y="221" key="com.intellij.ide.util.TipDialog" timestamp="1603466369565">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="393" y="221" key="com.intellij.ide.util.TipDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1603466369565" />
+  </component>
+</project>
